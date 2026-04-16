@@ -1,0 +1,8 @@
+venv/
+temp_storage/
+__pycache__/
+*.pyc
+.env
+*.mp4
+*.mp3
+*.jpg
